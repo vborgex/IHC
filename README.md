@@ -8,16 +8,16 @@ O objetivo deste repositório é documentar e apresentar os projetos desenvolvid
 
 ## Projetos
 
-### 1. [JS Main](link-para-o-js-main)
+### 1. [JS Main](https://github.com/vborgex/IHC/tree/2cda2034cf18d700b0b203ffcf8e4acfaf0503cc/Js-main)
 O **JS Main** é uma coleção de atividades desenvolvidas em JavaScript. Este projeto foi criado para praticar e consolidar os conhecimentos adquiridos na disciplina de IHC.
 
-### 2. [Projeto Spotify](link-para-o-projeto-spotify)
+### 2. [Projeto Spotify](https://github.com/vborgex/IHC/tree/2cda2034cf18d700b0b203ffcf8e4acfaf0503cc/ProjetoSpotify/Projeto-Spotify-main)
 O **Projeto Spotify** é uma aplicação web que simula a interface do famoso serviço de streaming de música, Spotify.
 
-### 3. [React Nutri](link-para-o-react-nutri)
+### 3. [React Nutri](https://github.com/vborgex/IHC/tree/2cda2034cf18d700b0b203ffcf8e4acfaf0503cc/reactnutri)
 O **React Nutri** é uma aplicação desenvolvida em React que consome uma API do [Sujeito Programador](https://sujeitoprogramador.com/). Este projeto tem como objetivo facilitar o acompanhamento de dietas e nutrição.
 
-### 4. [Rotinhas](link-para-o-rotinhas)
+### 4. [Rotinhas](https://github.com/vborgex/IHC/tree/2cda2034cf18d700b0b203ffcf8e4acfaf0503cc/rotinhas)
 O **Rotinhas** é um projeto em React que visa praticar e consolidar conhecimentos sobre a utilização de Rotas na Interação Humano-Computador (IHC). Através deste projeto, explorei como gerenciar a navegação em aplicações web de forma eficiente.
 
 ## Tecnologias Utilizadas
