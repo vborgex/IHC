@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    min-height: 100vh;
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 10px; /* Adiciona um efeito de arredondamento nas bordas */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra para dar profundidade */
+}
+
+.h1{
+    font-style: italic;
+    color: #fff; /* Cor de texto branca, mas podemos usar um tom mais suave como #f7f7f7 */
+    text-align: center;
+    margin-bottom: 20px; /* Adiciona um espaço entre o título e a imagem */
+}

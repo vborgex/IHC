@@ -1,0 +1,28 @@
+header{
+    background-color: #444; /* Cor de fundo escura, mas não preta */
+    padding: 20px; /* Adiciona um espaço entre o conteúdo e as bordas */
+    text-align: center; /* Alinha o conteúdo ao centro */
+}
+
+header h1{
+    font-style: italic;
+    color: #fff; /* Cor de texto branca, mas podemos usar um tom mais suave como #f7f7f7 */
+    text-align: center;
+    margin-bottom: 10px; /* Adiciona um espaço entre o título e a imagem */
+}
+
+header div{
+    display: flex;
+    justify-content: space-between; /* Alinha os links ao centro e espaça-os igualmente */
+}
+
+header a{
+    color: #fff; /* Cor de texto branca, mas podemos usar um tom mais suave como #f7f7f7 */
+    text-decoration: none; /* Remove a decoração padrão dos links */
+    margin: 0 20px; /* Adiciona um espaço entre os links */
+    transition: color 0.2s ease; /* Adiciona um efeito de transição para os links */
+}
+
+header a:hover{
+    color: #ccc; /* Cor de texto branca, mas podemos usar um tom mais suave como #f7f7f7 */
+}

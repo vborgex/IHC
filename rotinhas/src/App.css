@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  background-color: #333; /* Cor de fundo mais clara */
+  min-height: 100vh; /* Garante que ocupa toda a altura da tela */
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34; /* Cor de fundo do cabeçalho */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white; /* Texto branco para contraste */
+  padding: 20px; /* Adiciona um pouco de espaçamento */
+}
+
+.App-link {
+  color: #61dafb; /* Cor do link */
+  text-decoration: none; /* Remove o sublinhado */
+}
+
+.App-link:hover {
+  text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
