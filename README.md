@@ -1,0 +1,34 @@
+# ATIVHC - Atividades de IHC
+
+Bem-vindo ao repositório **ATIVHC**! Este repositório é dedicado às atividades de Interação Humano-Computador (IHC) que realizei durante meu curso de Ciência da Computação na Universidade Estadual do Centro-Oeste, sob a orientação do professor **Giovane Galvão**.
+
+## Sobre o ATIVHC
+
+O objetivo deste repositório é documentar e apresentar os projetos desenvolvidos ao longo da disciplina de IHC. A Interação Humano-Computador é uma área fundamental da computação, focando na criação de interfaces e experiências de usuário que sejam intuitivas, eficientes e agradáveis. Aqui, você encontrará uma coleção de projetos que refletem os conceitos e práticas aprendidos durante o curso.
+
+## Projetos
+
+### 1. [JS Main](link-para-o-js-main)
+O **JS Main** é uma coleção de atividades desenvolvidas em JavaScript. Este projeto foi criado para praticar e consolidar os conhecimentos adquiridos na disciplina de IHC.
+
+### 2. [Projeto Spotify](link-para-o-projeto-spotify)
+O **Projeto Spotify** é uma aplicação web que simula a interface do famoso serviço de streaming de música, Spotify. Desenvolvido com tecnologias como HTML, CSS e JavaScript, este projeto apresenta funcionalidades principais que incluem:
+
+- Navegação intuitiva
+- Reprodução de músicas
+- Criação de playlists personalizadas
+
+### 3. [React Nutri](link-para-o-react-nutri)
+O **React Nutri** é uma aplicação desenvolvida em React que consome uma API do [Sujeito Programador](https://sujeitoprogramador.com/). Este projeto tem como objetivo facilitar o acompanhamento de dietas e nutrição.
+
+### 4. [Rotinhas](link-para-o-rotinhas)
+O **Rotinhas** é um projeto em React que visa praticar e consolidar conhecimentos sobre a utilização de Rotas na Interação Humano-Computador (IHC). Através deste projeto, explorei como gerenciar a navegação em aplicações web de forma eficiente.
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+Agradeço por visitar o repositório ATIVHC! Espero que você encontre inspiração e aprendizado nas atividades aqui apresentadas.
