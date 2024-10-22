@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap'); /* Nova fonte para sinopse */
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #141414;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    font-size: 35px;
+    height: 60px;
+    width: 100%;
+    background-color: #141414;
+    color: #FFF;
+    padding: 0 20px;
+    justify-content: center; /* Centraliza o conteúdo */
+}
+
+header .logo {
+    display: flex;
+    align-items: center; /* Alinha verticalmente o logo e o texto */
+}
+
+header .logo img {
+    width: 80px; /* Tamanho do logo */
+    height: auto; /* Mantém a proporção da imagem */
+    margin-right: 10px; /* Espaço entre o logo e o texto */
+}
+
+.post {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 700px;
+    background-color: #333;
+    border-radius: 7px;
+    border: none; /* Remove a borda dos posts */
+    margin: 8px;
+    padding: 10px;
+}
+
+.titulo {
+    font-size: 30px; /* Tamanho maior para o título */
+    margin-top: 10px;
+    margin-bottom: 15px; /* Menor margem inferior */
+    color: #FFF;
+    align-self: center;
+    font-family: 'Montserrat', sans-serif; /* Fonte para o título */
+}
+
+.subtitulo {
+    margin: 15px 0; /* Aumenta a margem acima e abaixo da sinopse */
+    color: rgb(154, 152, 152);
+    font-family: 'Roboto', sans-serif; /* Fonte para a sinopse */
+}
+
+.botao {
+    height: 40px;
+    background: none;
+    border-radius: 5px;
+    color: #E50914;
+    border: 2px solid #E50914;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+
+.botao:hover {
+    background-color: #E50914;
+    color: #FFF;
+}
