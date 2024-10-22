@@ -12,11 +12,7 @@ O objetivo deste repositório é documentar e apresentar os projetos desenvolvid
 O **JS Main** é uma coleção de atividades desenvolvidas em JavaScript. Este projeto foi criado para praticar e consolidar os conhecimentos adquiridos na disciplina de IHC.
 
 ### 2. [Projeto Spotify](link-para-o-projeto-spotify)
-O **Projeto Spotify** é uma aplicação web que simula a interface do famoso serviço de streaming de música, Spotify. Desenvolvido com tecnologias como HTML, CSS e JavaScript, este projeto apresenta funcionalidades principais que incluem:
-
-- Navegação intuitiva
-- Reprodução de músicas
-- Criação de playlists personalizadas
+O **Projeto Spotify** é uma aplicação web que simula a interface do famoso serviço de streaming de música, Spotify.
 
 ### 3. [React Nutri](link-para-o-react-nutri)
 O **React Nutri** é uma aplicação desenvolvida em React que consome uma API do [Sujeito Programador](https://sujeitoprogramador.com/). Este projeto tem como objetivo facilitar o acompanhamento de dietas e nutrição.
